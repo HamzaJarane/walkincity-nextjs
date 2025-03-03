@@ -53,7 +53,7 @@ export default function Layout({
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                 <Script
                     defer 
-                    data-domain={"walkin.city"}
+                    data-domain={"walkincity.hamza.im"}
                     data-api={`https://${process.env.NEXT_PUBLIC_CF_WORKER_HOSTNAME}/getvideos/videos`}
                     src={`https://${process.env.NEXT_PUBLIC_CF_WORKER_HOSTNAME}/getvideos/script.js`} 
                 />

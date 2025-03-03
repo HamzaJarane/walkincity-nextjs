@@ -67,7 +67,7 @@ function info() {
                     </div>
                 </div>
 
-                <div className={`bg-black w-[calc(100vw-30px)] m-3 min-h-[calc((100vh-47px)/3)] rounded-lg`}>
+                {/* <div className={`bg-black w-[calc(100vw-30px)] m-3 min-h-[calc((100vh-47px)/3)] rounded-lg`}>
                     <div className={'p-3'}>
                         <div className={'text-[40px] font-extrabold text-red-500 underline info-title'}>Contacts</div>
                         <div className={'text-[20px] sm:text-[30px] md:text-[25px]'}>
@@ -85,7 +85,7 @@ function info() {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div className={`bg-black w-[calc(100vw-30px)] m-3 min-h-[calc((100vh-47px)/3)] rounded-lg`}>
                     <div className={'p-3'}>

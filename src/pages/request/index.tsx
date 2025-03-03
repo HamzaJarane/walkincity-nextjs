@@ -256,9 +256,9 @@ export default function request({ countries }: { countries: ICountryRes[] }) {
                         <div className="font-semibold text-[#fc002a] text-center uppercase text-2xl underline">
                             Important
                         </div>
-                        <div className="font-semibold text-[#ff284b]">
+                        {/* <div className="font-semibold text-[#ff284b]">
                             - If you can't find the country that you want to add then please send us a request at: <a href="mailto:country@walkin.city" className='text-[#fc002a]'>country@walkin.city</a>
-                        </div>
+                        </div> */}
 
                         <div className="font-semibold text-[#ff284b]">
                             - Make sure that the <span className={'font-extrabold'}>Video</span> field is like one of those:

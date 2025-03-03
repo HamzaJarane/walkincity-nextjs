@@ -6,7 +6,7 @@ const nextConfig = {
         hostname: 'gravatar.com'
       },
       {
-        hostname: 'cdn.walkin.city'
+        hostname: 'cdn-walkincity.hamza.im'
       }
     ],
   }
