@@ -100,7 +100,7 @@ function info() {
                     <div className={'p-3'}>
                         <div className={'text-[40px] font-extrabold text-red-500 underline info-title'}>About Me</div>
                         <div className={'text-[20px] sm:text-[30px] md:text-[25px]'}>
-                            My name is <a target='_blank' className={'text-red-500'} href={`https://cyyc.lol`}>Hamza</a>, I'm a 20 year old web developer from <Link className={'text-red-500'} href={`${process.env.NEXT_PUBLIC_APP_URL}/?cn=Morocco`}>Morocco</Link>, I write code in <span className={'font-medium'}>React.js</span>, <span className={'font-medium'}>Vue.js</span>, <span className={'font-medium'}>Next.js</span>, <span className={'font-medium'}>Laravel</span>, and <span className={'font-medium'}>Tailwind CSS</span>, want to hire me? <span className={'font-bold'}>send me an email <a className={'text-red-500 font-medium'} href={`mailto:hire@cyyc.lol`}>hire@cyyc.lol</a></span>
+                            My name is <a target='_blank' className={'text-red-500'} href={`https://hamza.im`}>Hamza</a>, I'm a 20 year old web developer from <Link className={'text-red-500'} href={`${process.env.NEXT_PUBLIC_APP_URL}/?cn=Morocco`}>Morocco</Link>, I write code in <span className={'font-medium'}>React.js</span>, <span className={'font-medium'}>Vue.js</span>, <span className={'font-medium'}>Next.js</span>, <span className={'font-medium'}>Laravel</span>, and <span className={'font-medium'}>Tailwind CSS</span>, want to contact me? <span className={'font-bold'}>send me an email <a className={'text-red-500 font-medium'} href={`mailto:contact@hamza.im`}>contact@hamza.im</a></span>
                         </div>
                     </div>
                 </div>
