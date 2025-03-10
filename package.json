@@ -34,7 +34,7 @@
     "@types/react-no-ssr": "^1.1.7",
     "@types/sha256": "^0.2.2",
     "@types/sqlstring": "^2.3.2",
-    "axios": "^1.6.5",
+    "axios": "^1.8.2",
     "babel-core": "^7.0.0-bridge.0",
     "chart.js": "^4.4.1",
     "chartjs-adapter-date-fns": "^3.0.0",
